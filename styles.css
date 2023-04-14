@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@500;700&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font: 500 100%/1 "DM Sans", -apple-system, Helvetica, sans-serif;
+  margin: 0;
+  text-align: center;
+  text-rendering: geometricPrecision;
+}
+
+body {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  justify-content: center;
+  min-height: 100vh;
+}
